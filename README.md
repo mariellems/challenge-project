@@ -1,5 +1,3 @@
-# challenge-project
-
 # Projeto de automação de testes 
 
 Desenvolvido em Ruby e utilizado: Capybara, Cucumber, Rspec e Selenium.
